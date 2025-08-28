@@ -1,3 +1,3 @@
 # Oldagram
 
-**Instagram post card** made with vanilla JavaScript, HTML5 and CSS3
+**Instagram post card** made with HTML5 and CSS3
