@@ -13,14 +13,18 @@ main {
   color: #191919;
   border-radius: 12px;
   width: 375px;
-  height: 545px;
+  height: 555px;
+}
+
+.top-bar,
+.bottom-section {
+  padding: 8px 12px;
 }
 
 .top-bar {
   display: flex;
   align-items: center;
   gap: 10px;
-  padding: 12px;
 }
 
 .profile-img {
