@@ -1,3 +1,52 @@
 body {
   font-family: "Source Sans 3", sans-serif;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #252525;
+}
+
+main {
+  background-color: white;
+  color: #191919;
+  border-radius: 12px;
+  width: 375px;
+  height: 545px;
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px;
+}
+
+.profile-img {
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 0.5;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.5;
+}
+
+.post-img-section {
+  height: 375px;
+  width: 375px;
+  overflow: hidden;
+}
+
+.post-img {
+  width: 100%;
 }
